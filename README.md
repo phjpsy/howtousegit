@@ -6,3 +6,5 @@
 npm i
 npm start
 ```
+
+이라인을 추가함
